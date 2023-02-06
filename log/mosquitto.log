@@ -1,0 +1,34 @@
+1675681215: mosquitto version 2.0.15 starting
+1675681215: Config loaded from /mosquitto/config/mosquitto.conf.
+1675681215: Opening ipv4 listen socket on port 1883.
+1675681215: Opening ipv6 listen socket on port 1883.
+1675681215: mosquitto version 2.0.15 running
+1675681234: New connection from 172.20.0.1:58308 on port 1883.
+1675681234: Client auto-8F5FA40F-D01B-5F84-C700-EA06D9400B9F disconnected, not authorised.
+1675681247: mosquitto version 2.0.15 terminating
+1675681247: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1675681256: mosquitto version 2.0.15 starting
+1675681256: Config loaded from /mosquitto/config/mosquitto.conf.
+1675681256: Opening ipv4 listen socket on port 1883.
+1675681256: Opening ipv6 listen socket on port 1883.
+1675681256: mosquitto version 2.0.15 running
+1675681265: New connection from 172.22.0.1:58310 on port 1883.
+1675681265: Client auto-19F6D0EB-A42E-4F8D-CC9E-83093392B665 disconnected, not authorised.
+1675681313: mosquitto version 2.0.15 terminating
+1675681313: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1675681360: mosquitto version 2.0.15 starting
+1675681360: Config loaded from /mosquitto/config/mosquitto.conf.
+1675681360: Opening ipv4 listen socket on port 1883.
+1675681360: Opening ipv6 listen socket on port 1883.
+1675681360: mosquitto version 2.0.15 running
+1675681361: New connection from 172.23.0.1:58312 on port 1883.
+1675681361: New client connected from 172.23.0.1:58312 as auto-7B2389CE-C77A-786B-1A10-9C6936C9ACD6 (p2, c1, k60).
+1675681376: New connection from 172.23.0.1:58314 on port 1883.
+1675681377: New client connected from 172.23.0.1:58314 as auto-5C53B7D2-6F4A-8C6A-7FAF-8BCE9A6DC80E (p2, c1, k60).
+1675681377: Client auto-5C53B7D2-6F4A-8C6A-7FAF-8BCE9A6DC80E disconnected.
+1675681383: New connection from 172.23.0.1:58316 on port 1883.
+1675681383: New client connected from 172.23.0.1:58316 as auto-5D607F05-5C5E-59BF-80F1-6149A6385DB5 (p2, c1, k60).
+1675681383: Client auto-5D607F05-5C5E-59BF-80F1-6149A6385DB5 disconnected.
+1675681385: Client auto-7B2389CE-C77A-786B-1A10-9C6936C9ACD6 disconnected.
+1675681391: mosquitto version 2.0.15 terminating
+1675681391: Saving in-memory database to /mosquitto/data//mosquitto.db.
